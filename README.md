@@ -26,8 +26,8 @@ Looking at mapping, data viz of pollution from sensor and other data.
 
 [Repo](https://github.com/CodeTheCity/pollutionpatterns)
 
-### TBC 
-To be confirmed
+### TBC AKA F.A.R.T
+Fusty Air Route Tracker looking at options for live data on air quality in Aberdeen.
 
 [Repo](https://github.com/CodeTheCity/tbc)
 
