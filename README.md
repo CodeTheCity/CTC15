@@ -15,7 +15,7 @@ We have a [wiki page](https://github.com/CodeTheCity/CTC15/wiki) which contains 
 
 * TBC [Repo](https://github.com/CodeTheCity/tbc)
 
-* Visionaries [Repo])https://github.com/CodeTheCity/Visionaries)
+* Visionaries [Repo](https://github.com/CodeTheCity/Visionaries)
 
 * Yo [Repo](https://github.com/CodeTheCity/yo)
 
