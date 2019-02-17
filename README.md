@@ -7,7 +7,7 @@ We have a [wiki page](https://github.com/CodeTheCity/CTC15/wiki) which contains 
 ## Projects and their repos 
 
 ### API Hunters 
-Aiming to get APIs in place for Aberdeen sensors. 
+Aiming to get APIs in place for Aberdeen sensors with the goal of being able to retrieve current data, as well as historical data.
 
 [Repo](https://github.com/CodeTheCity/API_hunters)
 
