@@ -4,7 +4,7 @@ This took place on 16-17th February 2019, with over 40 people coming together to
 
 We have a [wiki page](https://github.com/CodeTheCity/CTC15/wiki) which contains data source links. 
 
-## Projects an their repos 
+## Projects and their repos 
 
 ### API Hunters 
 Aiming to get APIs in place for Aberdeen sensors. 
